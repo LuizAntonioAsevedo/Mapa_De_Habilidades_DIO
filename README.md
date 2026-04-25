@@ -1,4 +1,4 @@
-#  Mapa de Habilidades – Prevenção de Perdas & Logística
+#  Mapa de Habilidades – Prevenção de Perdas Ecomm
 
 Este projeto faz parte de um **Desafio de Curso da DIO (Digital Innovation One)** com foco em **Inteligência Artificial aplicada ao desenvolvimento profissional**.
 
